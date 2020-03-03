@@ -11,4 +11,4 @@ end
 
 source_url 'https://github.com/chef-cookbooks/selinux'
 issues_url 'https://github.com/chef-cookbooks/selinux/issues'
-chef_version '>= 13.0'
+chef_version '>= 12.0'
